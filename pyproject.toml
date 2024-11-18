@@ -1,0 +1,13 @@
+[project]
+name = "bsky-feeder"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "atproto>=0.0.55",
+    "fastapi>=0.115.5",
+    "mlx-lm>=0.19.3",
+    "peewee>=3.17.8",
+    "uvicorn>=0.32.0",
+]
