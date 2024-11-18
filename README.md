@@ -6,6 +6,8 @@ built with `atproto`, `fastapi`, `mlx` and `sqlite` to create a feed of posts th
 
 ## Processing Pipeline
 
+![run-bksy-feeder](https://github.com/user-attachments/assets/f88b07ed-254b-4638-a1c0-6723dd0b55e8)
+
 Start the server/feed processor with the following command:
 
 ```bash
